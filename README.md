@@ -69,4 +69,12 @@ If you'd like to contribute to the project, please follow these steps:
   - ![img_11.png](img_11.png)
 
 
+```properties
 
+spring_profiles_active=prod
+PROD_DB_HOST=containers.railway.app
+PROD_DB_PORT=7134
+PROD_DB_NAME=railway
+PROD_DB_USERNAME=postgres
+PROD_DB_PASSWORD=K6lDKdWjNcmGoRBUBRFF
+```
